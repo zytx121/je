@@ -1,11 +1,11 @@
-# Justice_Eternal 曲谱库 2.0
+# 自由神社曲谱库 2.0
 > 一个非营利的、兴趣驱动的曲谱编辑、发布与整理解决方案。
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
 
 ## Resource
 
-[贴吧](https://tieba.baidu.com/f?kw=justice_eternal) | [网站地址](http://bipubipu.com) | [移动端老站](http://jefun.top) | [PC端老站](http://lightmoon.pw) | [曲库地址](https://github.com/zytx121/je/issues) | [安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
+[贴吧](https://tieba.baidu.com/f?kw=justice_eternal) | [自由神社](http://moeje.org) | [移动端老站](http://jefun.top) | [PC端老站](http://lightmoon.pw) | [曲库地址](https://github.com/zytx121/je/issues) | [安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
 
 交流QQ群：690514210  （群内有图文教程，手把手教你传谱或调用该曲库API）
 
@@ -66,7 +66,7 @@ Q：网站老是上不去，怕自己上传的谱子消失，没有安全感- -�
 A：额。。。黑人问号.jpg  这里我必须解释一下，之前网站是我自己学习编程所写，中途由于换了几次域名，导致原来的域名无法正常访问。但是，目前可以负责人的告诉大家，github曲库至始至终都是可以正常访问的并上传谱子的。相信只要大家理解曲谱库和网站或客户端的关系，就不会有后顾之忧了。github男友力max！安全感爆表啊！
 
 Q：github曲库和主站自由神社什么关系？
-A：我个人给github曲库的定位是一个存放谱子的数据库，因为楼主也参（划）与（水）了自由神社新版本的开发，所以已经确定的是，等新站上线，本曲库的所有谱子都会连同老站的谱子一起移植到新站。所以也请小伙伴本不要没有安全感- -！安安心心上传吧！我们也知道谱子是小伙伴们辛辛苦苦扒出来的，那份想与大家分享的心情我们是坚决不会辜负的！！！
+A：我个人给github曲库的定位是一个存放谱子的数据库，因为楼主也参（划）与（水）了自由神社新版本的开发，所以已经确定的是，等新站上线，本曲库的所有谱子都会连同老站的谱子一起移植到新站。为了更好推动JE吧的发展，我们也将正式更名为自由神社曲谱库！同时我们的安卓客户端也将开始使用自由神社这个名字。今后，我们将全力配合自由神社开发组，共同为JE吧做贡献！所以也请小伙伴本不要没有安全感- -！安安心心上传吧！我们也知道谱子是小伙伴们辛辛苦苦扒出来的，那份想与大家分享的心情我们是坚决不会辜负的！！！
 
 Q：如果谱子是在别人基础上根据自己喜好修改而来怎么办？
 A：可以在扒谱人后加一行修改人
