@@ -1,11 +1,11 @@
-# Justice_Eternal 曲谱库2.0
+# Justice_Eternal 曲谱库 2.0
 > 一个非营利的、兴趣驱动的曲谱编辑、发布与整理解决方案。
 
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)  [![](https://img.shields.io/badge/%E8%B4%B4%E5%90%A7%20-%20justice__eternal%20-orange.svg)](https://tieba.baidu.com/f?kw=justice_eternal&ie=utf-8)  ![](https://img.shields.io/badge/Made-%E2%9D%A4-ff69b4.svg)
 
 ## Resource
 
-[贴吧地址](https://tieba.baidu.com/f?kw=justice_eternal) | [网站](http://bipubipu.com) | [移动端老站](http://jefun.top) | [PC端老站](http://lightmoon.pw) | [曲库地址](https://github.com/zytx121/justice_eternal/issues) | [安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
+[贴吧](https://tieba.baidu.com/f?kw=justice_eternal) | [网站地址](http://bipubipu.com) | [移动端老站](http://jefun.top) | [PC端老站](http://lightmoon.pw) | [曲库地址](https://github.com/zytx121/je/issues) | [安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
 
 交流QQ群：690514210  （群内有图文教程，手把手教你传谱或调用该曲库API）
 
@@ -23,17 +23,17 @@
 
 #### getIssues
 ```
-https://api.github.com/search/issues?q=${data.keyword}+state:open+repo:zytx121/justice_eternal${label}&sort=created&order=desc
+https://api.github.com/search/issues?q=${data.keyword}+state:open+repo:zytx121/je${label}&sort=created&order=desc
 ```
 
 #### getIssue
 ```
-https://api.github.com/repos/zytx121/justice_eternal/issues/${number}
+https://api.github.com/repos/zytx121/je/issues/${number}
 ```
 
 ##### getLabels
 ```
-https://api.github.com/repos/zytx121/justice_eternal/labels
+https://api.github.com/repos/zytx121/je/labels
 ```
 
 > Reference： [Github REST API v3](https://developer.github.com/v3/issues/)
@@ -75,7 +75,7 @@ Q：同一首曲子能否有多版本？
 A：可以的。考虑到大家扒的谱根据自己的偏好可能存在差异，所以即使是同一首曲子也不要求只留一个版本，可以同时存在不同版本。这样也方便大家挑选自己喜欢的版本。对于一首曲子本身就有不同版本，只需在曲名上进行区分即可。
 
 Q：2.0版本和之前的版本有什么区别？
-A：为了使搜索谱子更加方便，大幅调整了曲谱储存方式。2.0版本将**每一首谱子单独设为一个issue，通过project对不同谱子按照来来源进行分类**。
+A：1.0版本中为了美观使用了badge，后来成为了上传模板的主要门槛。另外，badge中的文字信息无法搜索到，影响了基本的搜索功能，导致许多用户搜不到想要的谱子，爬虫无法正确抓取歌曲信息。2.0版本中，我们决定将数据和样式分离，仅仅将github曲库定位为一个数据库，去除badge。这样不仅改善了搜索，同时使得利用爬虫备份谱子数据成为可能。1.0版本将一个作品定为一个issue，用issue里的comment来储存该作品的谱子，随着谱子数量增加，逐渐暴露出来一些问题。1. 如果同一作品下的谱子太多，那么用户搜索到该作品后还需要往下滚动很久才能找到需要的谱子，大大降低了用户体验。2. 以作品为基本单位的设计，先入为主地将谱子之间的其他方面联系削弱了。在2.0版本中，我们将每一首谱子单独作为一个issue，通过在comment中加入各种关键字来实现对谱子的分类搜索。比如用户现在能够按照作品名，扒谱人，xx年xx月新番，编曲等等进行搜索。极大的提高了搜索的自由度。
 
 
 ## License
