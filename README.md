@@ -5,7 +5,7 @@
 
 ## Resource
 
-[自由神社](http://moeje.org) | [曲库移动端老站](http://jefun.top) | [曲库PC端老站](http://lightmoon.pw) | [曲库地址](https://github.com/zytx121/je/issues) | [安卓客户端下载地址](https://pan.baidu.com/s/1pLMIsn5) ，密码: qrt9
+[自由神社](http://moeje.org) | [曲库移动端老站](http://jefun.top) | [曲库PC端老站](http://lightmoon.pw) | [曲库地址](https://github.com/zytx121/je/issues) | [安卓客户端下载](http://m.shouji.360tpcdn.com/180122/465b4dddbfdbf9704ad8c7fca2b5a7a2/livesun.justiceeternal_4.apk)
 
 交流QQ群：690514210  （群内有图文教程，手把手教你传谱或调用该曲库API,另外如果有dalao愿意尝试ios端或者微信小程序开发请加群详聊！）
 
