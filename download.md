@@ -1,4 +1,4 @@
 # 哔谱哔谱APP下载
 
-## 安卓客户端下载地址
+[安卓客户端下载](http://m.shouji.360tpcdn.com/180122/465b4dddbfdbf9704ad8c7fca2b5a7a2/livesun.justiceeternal_4.apk)
 
